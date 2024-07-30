@@ -1,4 +1,4 @@
-# CS 442 MP2: Yahtzee
+
 
 ## Overview
 
